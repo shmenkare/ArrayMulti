@@ -1,0 +1,9 @@
+ArrayMulti.csproj
+ArrayMulti.sln
+ArrayMulti.suo
+.gitattributes
+Properties/
+bin/
+obj/
+App.config
+.vs/
